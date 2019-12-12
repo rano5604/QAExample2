@@ -1,1 +1,3 @@
 file of demo1 branch
+
+line added by demo2 branch
